@@ -75,3 +75,10 @@ GA - best_y: [0.25]
 
 الخوارزميات التطورية ليست مجرد كود، بل هي مساحة إبداعية للتفكير بطرق جديدة لحل المشكلات.
 وإذا وجدت شيئًا مثيرًا للاهتمام، شاركه معنا — ربما يكون الإلهام لمشروع أكبر! 🚀
+
+
+## 🏷️ الكلمات المفتاحية
+
+Genetic Algorithm, GA, Optimization, Evolutionary Algorithm, Metaheuristic, Python, scikit-opt, Custom Operators, Selection, Crossover, Mutation, Fitness Function, Multi-dimensional Optimization, AI Optimization, Heuristic, Convergence, 
+
+الخوارزمية الجينية, GA, التحسين, خوارزمية تطورية, خوارزميات استكشافية, بايثون, scikit-opt, مشغلات مخصصة, اختيار, عبور, طفرة, دالة اللياقة, تحسين متعدد الأبعاد, تحسين الذكاء الاصطناعي, خوارزميات استرشادية, التقارب
